@@ -1,0 +1,7 @@
+/* 水平间距 */
+/* 水平间距 */
+.search-result {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  text-align: left;
+}

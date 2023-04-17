@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "YTU-TA-用户管理",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-segmented-control": "../../uni_modules/uni-segmented-control/components/uni-segmented-control/uni-segmented-control",
+    "uni-list-chat": "../../uni_modules/uni-list/components/uni-list-chat/uni-list-chat",
+    "uni-list": "../../uni_modules/uni-list/components/uni-list/uni-list"
+  }
+}

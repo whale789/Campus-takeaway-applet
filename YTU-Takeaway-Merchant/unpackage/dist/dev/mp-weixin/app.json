@@ -1,0 +1,53 @@
+{
+  "pages": [
+    "pages/Orders/Orders",
+    "pages/index/index",
+    "pages/Message/Message",
+    "pages/Conditions/Conditions",
+    "pages/Commodity/Commodity",
+    "pages/MerChantLogin/MerChantLogin",
+    "pages/MerchantRegiste/MerchantRegiste",
+    "pages/RecoverPassword/RecoverPassword",
+    "pages/StoreDetails/StoreDetails",
+    "pages/MerchantSettle/MerchantSettle",
+    "pages/MerchantExit/MerchantExit"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "ignoreDevUnusedFiles": false,
+    "ignoreUploadUnusedFiles": false
+  },
+  "tabBar": {
+    "selectedColor": "#1296db",
+    "list": [
+      {
+        "pagePath": "pages/Orders/Orders",
+        "text": "订单",
+        "iconPath": "/static/images/orders.png",
+        "selectedIconPath": "/static/images/orders-active.png"
+      },
+      {
+        "pagePath": "pages/Commodity/Commodity",
+        "text": "商品",
+        "iconPath": "/static/images/commodity.png",
+        "selectedIconPath": "/static/images/commodity-active.png"
+      },
+      {
+        "pagePath": "pages/Message/Message",
+        "text": "消息",
+        "iconPath": "/static/images/message.png",
+        "selectedIconPath": "/static/images/message-active.png"
+      },
+      {
+        "pagePath": "pages/Conditions/Conditions",
+        "text": "管理",
+        "iconPath": "/static/images/conditions.png",
+        "selectedIconPath": "/static/images/conditions-active.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

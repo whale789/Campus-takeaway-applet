@@ -1,0 +1,122 @@
+{
+	"pages": [{
+            "path" : "pages/Users/Users",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "YTU-TA-用户管理",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/Audit/Audit",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "YTU-TA-信息审核",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/Feedback/Feedback",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "YTU-TA-学生反馈",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/Personal/Personal",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "YTU-TA-个人信息",
+                "enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#0099FF"
+            }
+            
+        },
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		}  
+        ,{
+            "path" : "pages/ManagerLogin/ManagerLogin",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/Recoverpsd/Recoverpsd",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/AddManager/AddManager",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/AuditDetail/AuditDetail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		},
+		"ignoreDevUnusedFiles": false,
+		"ignoreUploadUnusedFiles": false		
+	},
+	"tabBar": {
+		"selectedColor": "#1296db",
+		"list":[
+		  {
+			"pagePath": "pages/Users/Users",
+			"text": "用户管理",
+			"iconPath": "/static/images/UserManage.png",
+			"selectedIconPath": "/static/images/UserManage-active.png"
+		  },
+		  {
+			  "pagePath": "pages/Audit/Audit",
+			  "text": "信息审核",
+			  "iconPath": "/static/images/InformationAudit.png",
+			  "selectedIconPath": "/static/images/InformationAudit-actvie.png"
+		  },
+		  {
+			"pagePath": "pages/Feedback/Feedback",
+			"text": "学生反馈",
+			"iconPath": "/static/images/Studentfeedback.png",
+			"selectedIconPath": "/static/images/Studentfeedback-active.png"
+		  },
+		  {
+			"pagePath": "pages/Personal/Personal",
+			"text": "个人信息",
+			"iconPath": "/static/images/PersonalMsg.png",
+			"selectedIconPath": "/static/images/PersonalMsg-active.png"
+		  }
+		]
+	}
+}

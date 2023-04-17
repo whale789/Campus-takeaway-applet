@@ -1,0 +1,51 @@
+{
+  "pages": [
+    "pages/Users/Users",
+    "pages/Audit/Audit",
+    "pages/Feedback/Feedback",
+    "pages/Personal/Personal",
+    "pages/index/index",
+    "pages/ManagerLogin/ManagerLogin",
+    "pages/Recoverpsd/Recoverpsd",
+    "pages/AddManager/AddManager",
+    "pages/AuditDetail/AuditDetail"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "ignoreDevUnusedFiles": false,
+    "ignoreUploadUnusedFiles": false
+  },
+  "tabBar": {
+    "selectedColor": "#1296db",
+    "list": [
+      {
+        "pagePath": "pages/Users/Users",
+        "text": "用户管理",
+        "iconPath": "/static/images/UserManage.png",
+        "selectedIconPath": "/static/images/UserManage-active.png"
+      },
+      {
+        "pagePath": "pages/Audit/Audit",
+        "text": "信息审核",
+        "iconPath": "/static/images/InformationAudit.png",
+        "selectedIconPath": "/static/images/InformationAudit-actvie.png"
+      },
+      {
+        "pagePath": "pages/Feedback/Feedback",
+        "text": "学生反馈",
+        "iconPath": "/static/images/Studentfeedback.png",
+        "selectedIconPath": "/static/images/Studentfeedback-active.png"
+      },
+      {
+        "pagePath": "pages/Personal/Personal",
+        "text": "个人信息",
+        "iconPath": "/static/images/PersonalMsg.png",
+        "selectedIconPath": "/static/images/PersonalMsg-active.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

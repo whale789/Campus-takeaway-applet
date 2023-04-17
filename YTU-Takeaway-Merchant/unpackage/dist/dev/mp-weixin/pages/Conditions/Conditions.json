@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "YTU-TA-管理",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#0099FF",
+  "usingComponents": {
+    "uni-file-picker": "../../uni_modules/uni-file-picker/components/uni-file-picker/uni-file-picker",
+    "uni-icons": "../../uni_modules/uni-icons/components/uni-icons/uni-icons",
+    "uni-tooltip": "../../uni_modules/uni-tooltip/components/uni-tooltip/uni-tooltip",
+    "uni-popup-message": "../../uni_modules/uni-popup/components/uni-popup-message/uni-popup-message",
+    "uni-popup": "../../uni_modules/uni-popup/components/uni-popup/uni-popup"
+  }
+}

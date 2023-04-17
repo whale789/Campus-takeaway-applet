@@ -1,0 +1,25 @@
+
+.ChatingName{
+	position: relative;
+	width: 65%;
+	margin-top: 2%;
+	font-size: 35rpx;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 1;
+	word-break: break-all;
+	text-overflow:ellipsis;
+	overflow: hidden;
+}
+.ChatingEndWord{
+	color: #cecece;
+	font-size: 27rpx;
+	margin-top: 1%;
+	width: 80%;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 1;
+	word-break: break-all;
+	text-overflow:ellipsis;
+	overflow: hidden;
+}

@@ -1,0 +1,66 @@
+{
+	"pages": [
+		{
+			"path": "pages/Home/Home",
+			"style": {
+				"navigationBarTitleText": "YTU-校急送(首页)",
+				"backgroundColor": "#EEEEEE"
+			}
+	    },
+		{
+			"path": "pages/Classify/Classify",
+			"style": {
+				"navigationBarTitleText": "YTU-校急送(分类)",
+				"backgroundColor": "#ffffff"
+			}
+		},
+		{
+			"path": "pages/Mine/Mine",
+			"style": {
+				"navigationBarTitleText": "YTU-校急送（我的）",
+				"navigationBarBackgroundColor": "#0099FF"
+			}
+		}
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	},
+	"tabBar": {
+		"selectedColor": "#1296db",
+		"list":[
+		  {
+		    "pagePath": "pages/Home/Home",
+		    "text": "首页",
+		    "iconPath": "/static/images/Home.png",
+		    "selectedIconPath": "/static/images/Home-active.png"
+		  },
+		  {
+			  "pagePath": "pages/Classify/Classify",
+			  "text": "分类",
+			  "iconPath": "/static/images/Classify.png",
+			  "selectedIconPath": "/static/images/Classify-active.png"
+		  },
+		  {
+		    "pagePath": "pages/Mine/Mine",
+		    "text": "我的",
+		    "iconPath": "/static/images/Mine.png",
+		    "selectedIconPath": "/static/images/Mine-active.png"
+		  }
+		]
+	},
+	"easycom": { //组件化配置
+			"autoscan": true, //是否开启自动扫描，开启后将会自动扫描符合components/组件名称/组件名称.vue目录结构的组件
+			"custom": {
+				// "uni-(.*)": "@/components/uni-$1.vue", // 匹配components目录内的vue文件
+				"uni-(.*)": "@/components/uni-$1/uni-$1.vue", // 匹配components目录下组件名称/组件名称内的vue文件
+				"vue-file-(.*)": "packageName/path/to/vue-file-$1.vue" // 匹配node_modules内的vue文件
+			}
+		}
+
+}

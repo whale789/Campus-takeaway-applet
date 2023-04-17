@@ -1,0 +1,145 @@
+{
+	"pages": [
+		{
+			"path" : "pages/Orders/Orders",
+			"style" :                                                                                    
+			{
+				"navigationBarTitleText": "YTU-TA-订单",
+				"enablePullDownRefresh": false
+			}
+		},
+		{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "uni-app"
+		}
+	}
+        ,{
+            "path" : "pages/Message/Message",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "YTU-TA-消息",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/Conditions/Conditions",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "YTU-TA-管理",
+                "enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#0099FF"
+            }
+            
+        },
+		{
+		    "path" : "pages/Commodity/Commodity",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "enablePullDownRefresh": false,
+				"navigationStyle":"custom"
+		    }
+		    
+		}
+        ,{
+            "path" : "pages/MerChantLogin/MerChantLogin",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/MerchantRegiste/MerchantRegiste",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/RecoverPassword/RecoverPassword",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/StoreDetails/StoreDetails",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/MerchantSettle/MerchantSettle",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/MerchantExit/MerchantExit",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		},
+		"ignoreDevUnusedFiles": false,
+		"ignoreUploadUnusedFiles": false		
+	},
+	"tabBar": {
+			"selectedColor": "#1296db",
+			"list":[
+			  {
+			    "pagePath": "pages/Orders/Orders",
+			    "text": "订单",
+			    "iconPath": "/static/images/orders.png",
+			    "selectedIconPath": "/static/images/orders-active.png"
+			  },
+			  {
+				  "pagePath": "pages/Commodity/Commodity",
+				  "text": "商品",
+				  "iconPath": "/static/images/commodity.png",
+				  "selectedIconPath": "/static/images/commodity-active.png"
+			  },
+			  {
+			    "pagePath": "pages/Message/Message",
+			    "text": "消息",
+			    "iconPath": "/static/images/message.png",
+			    "selectedIconPath": "/static/images/message-active.png"
+			  },
+			  {
+			    "pagePath": "pages/Conditions/Conditions",
+			    "text": "管理",
+			    "iconPath": "/static/images/conditions.png",
+			    "selectedIconPath": "/static/images/conditions-active.png"
+			  }
+			]
+		},
+		"easycom": {
+		    "^u-(.*)": "uview-ui/components/u-$1/u-$1.vue"
+		  }
+
+}

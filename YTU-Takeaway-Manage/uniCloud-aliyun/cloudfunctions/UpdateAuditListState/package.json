@@ -1,0 +1,7 @@
+{
+  "name": "UpdateAuditListState",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

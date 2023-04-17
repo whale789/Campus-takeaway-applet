@@ -1,0 +1,40 @@
+
+.text{
+	width: 70%; 
+	height: 40rpx;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 1;
+	text-overflow:ellipsis;
+	overflow: hidden;
+	color: black;
+}
+.remark-active{
+	position: relative;
+	width: 65%;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 1;
+	text-overflow:ellipsis;
+	overflow: hidden;
+	color: black;
+}
+.remark{
+	position: relative;
+	width: 65%;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+	-webkit-line-clamp: 5;
+	text-overflow:ellipsis;
+	overflow: hidden;
+	color: black;
+}
+.bottomAdd {
+	display: flex;
+	justify-content: center;
+	color: rgb(157, 157, 157);
+	padding-bottom: 10px;
+	font-size: 12px;
+}
+
+
