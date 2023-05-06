@@ -1,0 +1,7 @@
+{
+  "name": "GetAllManagers",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

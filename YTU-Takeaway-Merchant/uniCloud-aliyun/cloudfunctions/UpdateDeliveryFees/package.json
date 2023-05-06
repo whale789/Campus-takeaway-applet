@@ -1,0 +1,7 @@
+{
+  "name": "UpdateDeliveryFees",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

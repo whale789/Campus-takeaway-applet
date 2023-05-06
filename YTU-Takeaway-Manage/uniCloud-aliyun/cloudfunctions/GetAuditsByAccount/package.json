@@ -1,0 +1,7 @@
+{
+  "name": "GetAuditsByAccount",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

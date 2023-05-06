@@ -1,0 +1,7 @@
+{
+  "name": "GetChatByManagerId",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

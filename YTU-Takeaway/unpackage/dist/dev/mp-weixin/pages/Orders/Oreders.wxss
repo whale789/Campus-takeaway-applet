@@ -1,0 +1,9 @@
+/* 水平间距 */
+/* 水平间距 */
+.bottomAdd {
+  display: flex;
+  justify-content: center;
+  color: #9d9d9d;
+  padding-bottom: 10px;
+  font-size: 12px;
+}

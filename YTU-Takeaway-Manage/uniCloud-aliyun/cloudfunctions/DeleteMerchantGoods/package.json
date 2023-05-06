@@ -1,0 +1,7 @@
+{
+  "name": "DeleteMerchantGoods",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

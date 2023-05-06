@@ -1,0 +1,7 @@
+{
+  "name": "AddMerchantNewClass",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

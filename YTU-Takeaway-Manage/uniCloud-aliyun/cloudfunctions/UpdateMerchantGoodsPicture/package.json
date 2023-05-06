@@ -1,0 +1,7 @@
+{
+  "name": "UpdateMerchantGoodsPicture",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

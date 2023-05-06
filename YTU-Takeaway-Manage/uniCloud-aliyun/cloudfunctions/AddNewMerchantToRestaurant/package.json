@@ -1,0 +1,7 @@
+{
+  "name": "AddNewMerchantToRestaurant",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

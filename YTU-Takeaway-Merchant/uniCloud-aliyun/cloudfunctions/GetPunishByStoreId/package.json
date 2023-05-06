@@ -1,0 +1,7 @@
+{
+  "name": "GetPunishByStoreId",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

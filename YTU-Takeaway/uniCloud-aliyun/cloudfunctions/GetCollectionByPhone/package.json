@@ -1,0 +1,7 @@
+{
+  "name": "GetCollectionByPhone",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

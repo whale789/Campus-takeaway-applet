@@ -1,0 +1,7 @@
+{
+  "name": "AddMerchantToCollection",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

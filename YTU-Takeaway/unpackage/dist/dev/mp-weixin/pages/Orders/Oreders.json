@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "YTU-校急送(订单)",
+  "backgroundColor": "#ffffff",
+  "usingComponents": {
+    "uni-icons": "../../uni_modules/uni-icons/components/uni-icons/uni-icons"
+  }
+}

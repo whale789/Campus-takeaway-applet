@@ -1,0 +1,7 @@
+{
+  "name": "GetAppraiseByStoreId",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

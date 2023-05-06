@@ -1,0 +1,7 @@
+{
+  "name": "Deletefield",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

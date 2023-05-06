@@ -1,0 +1,7 @@
+{
+  "name": "UpdateMerchantUserPsd",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
