@@ -1,0 +1,7 @@
+{
+  "name": "GetCustomerByAccount",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

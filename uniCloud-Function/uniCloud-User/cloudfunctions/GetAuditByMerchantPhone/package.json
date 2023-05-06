@@ -1,0 +1,7 @@
+{
+  "name": "GetAuditByMerchantPhone",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

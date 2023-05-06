@@ -1,0 +1,7 @@
+{
+  "name": "UpdateManagerPsd",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

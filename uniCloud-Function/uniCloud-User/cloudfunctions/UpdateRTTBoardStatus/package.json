@@ -1,0 +1,7 @@
+{
+  "name": "UpdateRTTBoardStatus",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

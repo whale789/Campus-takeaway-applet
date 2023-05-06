@@ -1,0 +1,7 @@
+{
+  "name": "AddNewChat",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

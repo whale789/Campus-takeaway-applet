@@ -1,0 +1,7 @@
+{
+  "name": "UpdateMerchantClassName",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

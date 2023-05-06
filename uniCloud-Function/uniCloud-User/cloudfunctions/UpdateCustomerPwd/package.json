@@ -1,0 +1,7 @@
+{
+  "name": "UpdateCustomerPwd",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

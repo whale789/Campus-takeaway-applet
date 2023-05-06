@@ -1,0 +1,3 @@
+{"_id":{"$oid":"6440e7e209e2989198cd2f42"},"Address":"烟台大学北校区2号楼","Number":"A101","Contact":"贺凯","Phone":"15587389909","Possessor":"15130380905","gender":"先生","Doorplate":"A113"}
+{"_id":{"$oid":"6440dfeb819ce8deee4c08a1"},"Address":"烟台大学北校区7号楼","Number":"A516","Contact":"张乾","Phone":"15130380905","Possessor":"15130380905","gender":"先生","Doorplate":"A111"}
+{"_id":{"$oid":"644145e1819ce8deee7105ef"},"Address":"烟台大学北校区5号楼","Doorplate":"A203","Contact":"张乾","Phone":"15587389909","Possessor":"15130380905","gender":"先生"}

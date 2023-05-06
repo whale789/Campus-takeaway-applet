@@ -1,0 +1,7 @@
+{
+  "name": "DeleteAppraise",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

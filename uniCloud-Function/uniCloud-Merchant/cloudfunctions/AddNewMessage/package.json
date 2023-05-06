@@ -1,0 +1,7 @@
+{
+  "name": "AddNewMessage",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

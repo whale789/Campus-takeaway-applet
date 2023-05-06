@@ -1,0 +1,7 @@
+{
+  "name": "AddToAuditList",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

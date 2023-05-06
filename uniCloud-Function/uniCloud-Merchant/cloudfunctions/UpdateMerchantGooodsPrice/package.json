@@ -1,0 +1,7 @@
+{
+  "name": "UpdateMerchantGooodsPrice",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

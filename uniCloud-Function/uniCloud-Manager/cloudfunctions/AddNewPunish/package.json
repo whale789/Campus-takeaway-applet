@@ -1,0 +1,7 @@
+{
+  "name": "AddNewPunish",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

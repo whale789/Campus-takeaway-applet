@@ -1,0 +1,7 @@
+{
+  "name": "UpdateMerchantStateById",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

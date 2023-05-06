@@ -1,0 +1,7 @@
+{
+  "name": "AddNewCustomerUser",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

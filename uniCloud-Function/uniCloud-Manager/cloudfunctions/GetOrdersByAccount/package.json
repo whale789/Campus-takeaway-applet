@@ -1,0 +1,7 @@
+{
+  "name": "GetOrdersByAccount",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

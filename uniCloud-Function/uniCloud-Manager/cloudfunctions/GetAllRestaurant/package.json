@@ -1,0 +1,7 @@
+{
+  "name": "GetAllRestaurant",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

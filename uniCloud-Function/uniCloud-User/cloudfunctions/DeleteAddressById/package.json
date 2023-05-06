@@ -1,0 +1,7 @@
+{
+  "name": "DeleteAddressById",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

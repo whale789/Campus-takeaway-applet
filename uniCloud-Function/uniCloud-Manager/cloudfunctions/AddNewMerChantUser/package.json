@@ -1,0 +1,7 @@
+{
+  "name": "AddNewMerChantUser",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "UpdateGoodsMonthlyNum",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

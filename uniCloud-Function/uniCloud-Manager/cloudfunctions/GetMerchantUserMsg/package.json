@@ -1,0 +1,7 @@
+{
+  "name": "GetMerchantUserMsg",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

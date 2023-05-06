@@ -1,0 +1,7 @@
+{
+  "name": "UpdateAuditExitById",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

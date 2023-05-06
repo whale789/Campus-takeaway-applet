@@ -1,0 +1,7 @@
+{
+  "name": "GetAuditByListId",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

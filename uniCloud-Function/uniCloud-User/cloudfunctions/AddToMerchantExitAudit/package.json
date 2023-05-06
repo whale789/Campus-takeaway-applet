@@ -1,0 +1,7 @@
+{
+  "name": "AddToMerchantExitAudit",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

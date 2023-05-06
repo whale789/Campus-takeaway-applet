@@ -1,0 +1,7 @@
+{
+  "name": "GetAllMerchantUsers",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

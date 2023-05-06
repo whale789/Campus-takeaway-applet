@@ -1,0 +1,7 @@
+{
+  "name": "GetManagerMsg",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}
